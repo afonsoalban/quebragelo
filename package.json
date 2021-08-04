@@ -1,8 +1,7 @@
 {
   "name": "quebra-gelo",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Afonso Alban",
+  "author": "Afonso Alban <afonsoalban@gmail.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {},
